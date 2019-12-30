@@ -17,9 +17,12 @@
 1. ctrl+x ctrl+e
 2. ctrl+x ctrl+y
 
-##### unindent
+##### unindent in insert mode
 1. cmd+d unindent
 2. cmd+t indent
+
+##### indent/unindet in normal mode
+1. >> to indent the current line, or << to uninden
 2. shift+V + < >
 
 ##### Find/replace
