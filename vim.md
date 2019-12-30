@@ -18,7 +18,8 @@
 2. ctrl+x ctrl+y
 
 ##### unindent
-1. cmd+d
+1. cmd+d unindent
+2. cmd+t indent
 2. shift+V + < >
 
 ##### Find/replace
