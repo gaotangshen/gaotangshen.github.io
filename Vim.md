@@ -48,4 +48,5 @@
 2. ctrl+v -> select -> shift+X to delete
 
 ##### some useful command
-https://www.keycdn.com/blog/vim-commands
+[Link to another page](https://www.keycdn.com/blog/vim-commands).
+
