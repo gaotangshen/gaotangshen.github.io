@@ -3,6 +3,7 @@
 ##### general
 1. insert new lines: o O
 2. c delete and enter insert mode
+3. f + character you want jump to
 
 [Link to another page](https://www.keycdn.com/blog/vim-commands).
 
