@@ -22,7 +22,8 @@
 2. cmd+t indent
 
 ##### indent/unindet in normal mode
-1. >> to indent the current line, or << to uninden
+1. \>\> indent the current line
+2. \<\< to uninden
 2. shift+V + < >
 
 ##### Find/replace
