@@ -39,7 +39,7 @@
 8. g]	See all definitions
 
 ##### search
-1. :grep
+1. :grep  -r (recursive) -i (ignore-case) --include (search only files that match the file pattern)
 2. ]q next
 3. [q previous
 4. :cclose
