@@ -5,6 +5,10 @@
 
 [Link to another page](https://www.keycdn.com/blog/vim-commands).
 
+##### NERDTree
+1. gt = next tab
+2. gT = previous tab
+
 ##### resize window
 1. vertical resize +/-20N
 2. res +/-20N
