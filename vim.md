@@ -6,6 +6,7 @@
 3. f + character you want jump to
 4. vip  select the paragraph
 5. CTRL+\[  exit insert mode
+6. 5+s delete 5 chars from cursor
 
 [Link to another page](https://www.keycdn.com/blog/vim-commands).
 
