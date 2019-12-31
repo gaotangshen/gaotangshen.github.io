@@ -5,6 +5,7 @@
 2. c delete and enter insert mode
 3. f + character you want jump to
 4. vip  select the paragraph
+5. CTRL+\[  exit insert mode
 
 [Link to another page](https://www.keycdn.com/blog/vim-commands).
 
