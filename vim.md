@@ -9,6 +9,10 @@
 
 [Link to another page](https://www.keycdn.com/blog/vim-commands).
 
+##### replace multiple places
+search then cgn n. n.
+[You don't need a cursur](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
+
 ##### NERDTree
 1. gt = next tab
 2. gT = previous tab
