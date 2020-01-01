@@ -7,6 +7,7 @@
 4. vip  select the paragraph
 5. CTRL+\[  exit insert mode
 6. 5+s delete 5 chars from cursor
+7. :noh clear the highlights
 [more](http://www.worldtimzone.com/res/vi.html)
 [Link to another page](https://www.keycdn.com/blog/vim-commands).
 
