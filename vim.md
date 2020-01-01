@@ -24,8 +24,8 @@ search then cgn n. n.
 2. res +/-20N
 
 ##### move file in insert mode
-1. ctrl+x ctrl+e
-2. ctrl+x ctrl+y
+1. ctrl+X ctrl+E
+2. ctrl+X ctrl+Y
 
 ##### unindent in insert mode
 1. cmd+d unindent
