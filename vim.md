@@ -11,6 +11,12 @@
 [more](http://www.worldtimzone.com/res/vi.html)
 [Link to another page](https://www.keycdn.com/blog/vim-commands).
 
+##### Deleting word
+1. Use dw to delete word. Cursor placement is important! If your cursor is not on the first character, it will only delete from your cursor to the end of the word.
+2. Use diw to delete inside word. Deletes the entire word that your cursor resides in.
+3. Use dt<char> to delete to character. Deletes from your cursor to the specified character
+
+
 ##### replace multiple places
 search then cgn n. n.
 [You don't need a cursur](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
