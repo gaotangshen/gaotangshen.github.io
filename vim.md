@@ -4,7 +4,7 @@
 1. insert new lines: o O
 2. c delete and enter insert mode
 3. f + character you want jump to
-4. vip  select the paragraph
+4. vip  select the paragraph, vib select the block
 5. CTRL+\[  exit insert mode
 6. 5+s delete 5 chars from cursor
 7. :noh clear the highlights
