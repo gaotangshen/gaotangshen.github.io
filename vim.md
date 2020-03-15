@@ -4,7 +4,7 @@
 1. insert new lines: o O
 2. c delete and enter insert mode
 3. f + character you want jump to
-4. vip  select the paragraph
+4. vip  select the paragraph, vib select the block
 5. CTRL+\[  exit insert mode
 6. 5+s delete 5 chars from cursor
 7. :noh clear the highlights
@@ -76,3 +76,22 @@ search then cgn n. n.
 
 ##### NERDTree switch between tabs
 gt gT
+
+##### Close other tabs in VIM
+“close all other tabs” is much faster achieved by “:on” 
+:wqa quit all and save
+
+##### go to previous file
+CTRL+^ or CTRL+6
+:e#n
+
+##### find matching braces
+[( ...(go to previous unmatched ( character)
+[{ ...(go to previous unmatched { character)
+These two commands have matching forwards partners:
+
+]) ...(go to next unmatched ) character)
+]} ...(go to next unmatched } character)
+
+##### jump to buffer
+:ls  then :b + number + Enter
