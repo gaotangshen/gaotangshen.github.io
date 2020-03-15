@@ -73,3 +73,6 @@ search then cgn n. n.
 ##### modify multiple lines
 1. ctrl+v -> select lines -> shift + I -> do whatever(example //) -> ESC after esc it the change will apply to all the lines
 2. ctrl+v -> select -> shift+X to delete
+
+##### jump to buffer
+:ls  then :b + number + Enter
