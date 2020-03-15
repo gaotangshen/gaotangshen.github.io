@@ -74,6 +74,10 @@ search then cgn n. n.
 1. ctrl+v -> select lines -> shift + I -> do whatever(example //) -> ESC after esc it the change will apply to all the lines
 2. ctrl+v -> select -> shift+X to delete
 
+##### go to previous file
+CTRL+^ or CTRL+6
+:e#n
+
 ##### find matching braces
 [( ...(go to previous unmatched ( character)
 [{ ...(go to previous unmatched { character)
