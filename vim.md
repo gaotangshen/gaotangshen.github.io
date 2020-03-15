@@ -77,3 +77,14 @@ search then cgn n. n.
 ##### go to previous file
 CTRL+^ or CTRL+6
 :e#n
+
+##### find matching braces
+[( ...(go to previous unmatched ( character)
+[{ ...(go to previous unmatched { character)
+These two commands have matching forwards partners:
+
+]) ...(go to next unmatched ) character)
+]} ...(go to next unmatched } character)
+
+##### jump to buffer
+:ls  then :b + number + Enter
