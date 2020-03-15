@@ -74,6 +74,9 @@ search then cgn n. n.
 1. ctrl+v -> select lines -> shift + I -> do whatever(example //) -> ESC after esc it the change will apply to all the lines
 2. ctrl+v -> select -> shift+X to delete
 
+##### NERDTree switch between tabs
+gt gT
+
 ##### Close other tabs in VIM
 “close all other tabs” is much faster achieved by “:on” 
 :wqa quit all and save
