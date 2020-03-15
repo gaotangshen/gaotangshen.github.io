@@ -81,3 +81,6 @@ These two commands have matching forwards partners:
 
 ]) ...(go to next unmatched ) character)
 ]} ...(go to next unmatched } character)
+
+##### jump to buffer
+:ls  then :b + number + Enter
