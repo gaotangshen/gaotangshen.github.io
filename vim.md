@@ -101,3 +101,10 @@ These two commands have matching forwards partners:
 
 ##### jump to buffer
 :ls  then :b + number + Enter
+
+
+##### spell check
+1. ]s next
+2. \[s previous
+3. zg add to correct ones
+4. z= recommendations
